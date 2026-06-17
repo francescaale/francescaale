@@ -31,7 +31,7 @@ Built a mobile application designed to improve awareness of reproductive health 
 
 ## 📫 Connect With Me
 
-LinkedIn: [www.linkedin.com/in/francesca-donea-1112a5235](http://www.linkedin.com/in/francesca-donea-1112a5235)
-Email: fadcomputing@gmail.com
+* LinkedIn: [www.linkedin.com/in/francesca-donea-1112a5235](http://www.linkedin.com/in/francesca-donea-1112a5235)
+* Email: fadcomputing@gmail.com
 
 ⭐ Building real-world data analytics projects and developing practical skills in Data Science and AI.
