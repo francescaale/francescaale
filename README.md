@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Francesca Donea 👋
 
-<!--
-**francescaale/francescaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Data Analyst | Software Developer
 
-Here are some ideas to get you started:
+💻 Python | SQL | Statistics | Data Analysis | Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interested in Data Science, Artificial Intelligence, and Data-Driven Decision Making
+
+## 🚀 Skills
+
+* Python
+* SQL
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Statistics
+* Data Visualization
+* Data Handling & File Management
+* C#
+* HTML, CSS, JavaScript
+* PHP, MySQL, AJAX, JSON
+
+## 📂 Projects
+
+### Career Path Analyser (JavaScript, AJAX, MySQL)
+
+Developed a web-based platform that helps career changers, students, and early-career professionals identify skill gaps and explore career pathways. Included an interactive "day in the life" simulator to provide insights into different professions.
+
+### HealthApp (Flutter, Firebase)
+
+Built a mobile application designed to improve awareness of reproductive health through educational articles, videos, notifications, and personalized reminders.
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/francesca-donea-1112a5235](http://www.linkedin.com/in/francesca-donea-1112a5235)
+Email: fadcomputing@gmail.com
+
+⭐ Building real-world data analytics projects and developing practical skills in Data Science and AI.
