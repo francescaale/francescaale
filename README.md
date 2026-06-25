@@ -21,11 +21,11 @@
 
 ## 📂 Projects
 
-### Career Path Analyser (JavaScript, AJAX, MySQL)
+## Career Path Analyser (JavaScript, AJAX, MySQL)
 
 Developed a web-based platform that helps career changers, students, and early-career professionals identify skill gaps and explore career pathways. Included an interactive "day in the life" simulator to provide insights into different professions.
 
-### HealthApp (Flutter, Firebase)
+## HealthApp (Flutter, Firebase)
 
 Built a mobile application designed to improve awareness of reproductive health through educational articles, videos, notifications, and personalized reminders.
 
